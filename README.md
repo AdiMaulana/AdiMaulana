@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋👋 
+# I'm Adi Maulana!
 
-<!--
-**AdiMaulana/AdiMaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am a passionate **Java Backend Developer** and **Golang** enthusiast with a strong foundation in building scalable and efficient server-side applications. Currently, I am expanding my skill set by learning **Android programming** using **Kotlin** in **Android Studio**. 
 
-Here are some ideas to get you started:
+## 💻 Skills
+- **Programming Languages:** Java, Go (Golang), C++, Python, Kotlin
+- **Backend Technologies:** Spring Boot, RESTful APIs, Microservices, RESTful APIs
+- **Databases:** MySQL, PostgreSQL, Redis DB, Ms. Sql Server
+- **Tools & Technologies:** Docker, Git, Tomcat, Maven
+- **Android Development:** Jetpack Compose, Android SDK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+I'm diving deep into Android development to create engaging mobile applications that provide great user experiences. Excited to learn about Jetpack Compose and modern Android architecture!
+
+## 📫 Let's Connect!
+-  [Instagram](https://instagram.com/adi.m4ulana) ![Instagram Icon](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/example_folder/instagram.svg)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/adi-maulana-amin)
+- 📧 [Email](mailto:adimaulana28y@gmail.com)
+
+ ## 🎉 Fun Fact
+When I'm not coding, you can find me exploring new coffee shops or riding in nature. I believe in the power of continuous learning and sharing knowledge!
+
+---
+
+Feel free to check out my repositories and collaborate on exciting projects! 🚀

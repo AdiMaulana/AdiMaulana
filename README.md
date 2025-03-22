@@ -15,8 +15,8 @@ I am a passionate **Java Backend Developer** and **Golang** enthusiast with a st
 I'm diving deep into Android development to create engaging mobile applications that provide great user experiences. Excited to learn about Jetpack Compose and modern Android architecture!
 
 ## 📫 Let's Connect!
--  [Instagram](https://instagram.com/adi.m4ulana) ![Instagram Icon](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/example_folder/instagram.svg)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/adi-maulana-amin)
+- 🌐 [Instagram](https://instagram.com/adi.m4ulana) ![Instagram Icon](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)
+- 💼 [LinkedIn](https://www.linkedin.com/in/adi-maulana-amin)
 - 📧 [Email](mailto:adimaulana28y@gmail.com)
 
  ## 🎉 Fun Fact
